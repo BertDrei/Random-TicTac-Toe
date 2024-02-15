@@ -8,12 +8,11 @@ Welcome to Randomize Tic-Tac-Toe! This project is a playful twist on the classic
 ## Features
 
 - **Randomized Moves:** Every move is randomized, making each game unique and unpredictable.
-- **Interactive Gameplay:** Engaging user experience with interactive elements for player moves.
-- **Winning Conditions:** The game checks for winning conditions after each move to declare a winner or a draw.
-- **Simple UI:** A clean and user-friendly interface for an enjoyable gaming experience.
+- **Simple UI:** A clean and user-friendly interface.
 
 ## How to Play
-
+- Click the Roll button and if you got 2 identical dice, it'll add one in the score.
+  
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/BertDrei/Random-TicTacToe.git
